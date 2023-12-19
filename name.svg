@@ -1,0 +1,24 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject x="20" y="20" width="1240" height="640">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        <style>
+            .animated-gradient {
+            background-image: -webkit-linear-gradient(125deg, #f2291b, #f7db25, #84f527);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            -webkit-animation: hue 15s infinite linear;
+            }@-webkit-keyframes hue {
+            from {
+            -webkit-filter: hue-rotate(0deg);
+            }
+            to {
+            -webkit-filter: hue-rotate(-360deg);
+            }
+            }
+        </style>
+        <div class="animated-gradient">
+            Felicia Hwang
+        </div>
+    </div>
+  </foreignObject>
+</svg>
