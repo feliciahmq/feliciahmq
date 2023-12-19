@@ -1,34 +1,16 @@
+<link href="README.css" rel="stylesheet"></link>
+
 <h1 align="center" class="animated-gradient">
     Felicia Hwang
-    <style>
-        .animated-gradient {
-            background-image: -webkit-linear-gradient(125deg, #f2291b, #f7db25, #84f527);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            -webkit-animation: hue 15s infinite linear;
-            }@-webkit-keyframes hue {
-            from {
-            -webkit-filter: hue-rotate(0deg);
-            }
-            to {
-            -webkit-filter: hue-rotate(-360deg);
-            }
-            }
-        body {
-            background-color: black;
-        }
-    </style>
 </h1>
 
-<h2> 
-<p style= "text-align:center"> hey there 👋 </p>
-
-<p> 👩‍💻 about me: </p>
-</h2>
+<h2 align="center"> hey there 👋 </h2>
 
 Welcome to my Github profile!💫
 
 I'm a Year 1 student majoring in Business Analytics in National University of Singapore (NUS) School of Computing. 
+
+<b>👩🏻‍💻 about  me: </b>
 
 * I'm currently learning web development on The Odin Project 🌐
 * Fun fact! I love playing video games during my free time! 🎮
