@@ -1,16 +1,14 @@
-<link href="README.css" rel="stylesheet"></link>
-
-<h1 align="center" class="animated-gradient">
-    Felicia Hwang
+<h1 align="center">
+    <img src="https://raw.githubusercontent.com/feliciahmq/feliciahmq/main/name.svg" alt="Felicia Hwang" /> 
 </h1>
 
 <h2 align="center"> hey there 👋 </h2>
 
+<h3>👩🏻‍💻 about  me: </h3>
+
 Welcome to my Github profile!💫
 
 I'm a Year 1 student majoring in Business Analytics in National University of Singapore (NUS) School of Computing. 
-
-<b>👩🏻‍💻 about  me: </b>
 
 * I'm currently learning web development on The Odin Project 🌐
 * Fun fact! I love playing video games during my free time! 🎮
