@@ -10,7 +10,7 @@ Welcome to my Github profile!💫
 
 I'm a Year 1 student majoring in Business Analytics in National University of Singapore (NUS) School of Computing. 
 
-* I'm currently learning web development on The Odin Project 🌐
+* I'm currently learning web development and full stack! 🌐
 * Fun fact! I love playing video games during my free time! 🎮
 
 <h2> connect with me 🤝 </h2>
