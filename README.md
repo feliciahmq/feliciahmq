@@ -13,8 +13,6 @@ I'm a Year 1 student majoring in Business Analytics in National University of Si
 * I'm currently learning web development and full stack! 🌐
 * Fun fact! I love playing video games during my free time! 🎮
 
-![](https://komarev.com/ghpvc/?username=feliciahmq&color=ff69b4&style=flat)
-
 <h2> connect with me 🤝 </h2>
 <p>
     <a href="https://www.linkedin.com/in/felicia-hwangmq/"><img alt="feliciahmq | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
