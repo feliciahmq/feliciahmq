@@ -2,9 +2,7 @@
     <img src="https://raw.githubusercontent.com/feliciahmq/feliciahmq/main/name.svg" alt="Felicia Hwang" /> 
 </h1>
 
-<h2 align="center"> hey there 👋 </h2>
-
-<h3>👩🏻‍💻 about  me: </h3>
+<h2> hey there 👋 </h2>
 
 Welcome to my Github profile!💫
 
