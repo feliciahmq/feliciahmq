@@ -10,7 +10,7 @@ Welcome to my Github profile!💫
 
 I'm a Year 2 student Computer Science student from National University of Singapore (NUS). 
 
-Check out my website [here](https://feliciahmq.vercel.app)! 
+Check out my website <a href="https://feliciahmq.vercel.app/" target="_blank">here</a>!
 
 <h2> connect with me 🤝 </h2>
 <p>
