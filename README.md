@@ -16,6 +16,8 @@ Check out my website <a href="https://feliciahmq.vercel.app/" target="_blank">he
     <a href="mailto:feliciahmq.work@gmail.com"><img alt="feliciahmq | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliciahmq&layout=compact&theme=vision-friendly-dark) 
+
 
 
 
