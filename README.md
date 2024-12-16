@@ -7,7 +7,7 @@ Hey there 👋  I am Felicia! I am a student keen in exploring the world of soft
 My Experiences:
 - Software Engineer Intern @ Monetary Authority of Singapore
 - Teaching Assistant @ NUS CS2030 (OOP & Functional Programming)
-- Software Engineer @ NUS Finctech Society
+- Software Engineer @ NUS Fintech Society
 - Digital Transformation Intern @ Civil Aviation Authority of Singapore
 
 More about me <a href="https://feliciahmq.vercel.app/" target="_blank">here</a> !
