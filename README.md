@@ -1,23 +1,19 @@
-<h1 align="center">
+<h1>
     <img src="https://raw.githubusercontent.com/feliciahmq/feliciahmq/main/name.svg" alt="Felicia Hwang" /> 
 </h1>
 
-<h2> hey there 👋 </h2>
+Hey there 👋  I am Felicia! I am a student keen in exploring the world of software engineering & data engineering! 
 
-Welcome to my Github profile!💫
+My Experiences:
+- Software Engineer Intern @ Monetary Authority of Singapore
+- Teaching Assistant @ NUS CS2030 (OOP & Functional Programming)
+- Software Engineer @ NUS Finctech Society
+- Digital Transformation Intern @ Civil Aviation Authority of Singapore
 
-I'm a Year 2 student Computer Science student from National University of Singapore (NUS). 
+More about me <a href="https://feliciahmq.vercel.app/" target="_blank">here</a> !
 
-Check out my website <a href="https://feliciahmq.vercel.app/" target="_blank">here</a>!
-
-<h2> connect with me 🤝 </h2>
+<h3> connect with me !</h3>
 <p>
     <a href="https://www.linkedin.com/in/feliciahmq/"><img alt="feliciahmq | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:feliciahmq.work@gmail.com"><img alt="feliciahmq | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feliciahmq&layout=compact&theme=vision-friendly-dark) 
-
-
-
-
