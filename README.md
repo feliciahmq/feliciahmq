@@ -2,7 +2,7 @@
     <img src="https://raw.githubusercontent.com/feliciahmq/feliciahmq/main/name.svg" alt="Felicia Hwang" /> 
 </h1>
 
-Hey there 👋  I am Felicia! I am a student keen in exploring the world of software engineering & data engineering! 
+Hey there 👋  I am Felicia! I am a student keen on exploring the world of software engineering & data engineering! 
 
 My Experiences:
 - Software Engineer Intern @ Monetary Authority of Singapore
