@@ -4,12 +4,6 @@
 
 Hey there 👋  I am Felicia! I am a student keen on exploring the world of software engineering & data engineering! 
 
-My Experiences:
-- Software Engineer Intern @ Robert Bosch
-- Software Engineer Intern @ Monetary Authority of Singapore
-- Teaching Assistant @ NUS CS2030 (OOP & Functional Programming)
-- Software Engineer @ NUS Fintech Society
-
 More about me <a href="https://feliciahmq.vercel.app/" target="_blank">here</a> !
 
 <h3> connect with me !</h3>
